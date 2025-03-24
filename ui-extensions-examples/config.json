@@ -1,0 +1,95 @@
+{
+  "projects": [
+    {
+      "name": "mapbox-api",
+      "label": "View nearby companies: Mapbox API",
+      "path": "mapbox-api",
+      "insertPath": null
+    },
+    {
+      "name": "duplicate-contact",
+      "label": "Duplicate a Contact",
+      "path": "duplicate-contact",
+      "insertPath": null
+    },
+    {
+      "name": "deals-summary",
+      "label": "Create a deals summary",
+      "path": "deals-summary",
+      "insertPath": null
+    },
+    {
+      "name": "multi-step-flow-private",
+      "label": "Build a multi-step flow with private app",
+      "path": "multi-step-flow/private",
+      "insertPath": null
+    },
+    {
+      "name": "multi-step-flow-public",
+      "label": "Build a multi-step flow with public app",
+      "path": "multi-step-flow/public",
+      "insertPath": null
+    },
+
+    {
+      "name": "flex-and-box",
+      "label": "Flex and Box",
+      "path": "flex-and-box",
+      "insertPath": null
+    },
+    {
+      "name": "generate-quotes",
+      "label": "Generate multiple quotes",
+      "path": "generate-quotes",
+      "insertPath": null
+    },
+    {
+      "name": "crm-data-components",
+      "label": "Use CRM data components",
+      "path": "crm-data-components",
+      "insertPath": null
+    },
+    {
+      "name": "display-iframe-modal",
+      "label": "Displaying an Iframe Modal",
+      "path": "display-iframe-modal",
+      "insertPath": null
+    },
+    {
+      "name": "bi-directional-property-refresh",
+      "label": "Bi-directional refresh of CRM properties",
+      "path": "property-refresh",
+      "insertPath": null
+    },
+    {
+      "name": "custom-logger-example",
+      "label": "Custom Logger Example",
+      "path": "custom-logger-example",
+      "insertPath": null
+    },
+    {
+      "name": "overlay-example",
+      "label": "Overlay Example",
+      "path": "overlay-example",
+      "insertPath": null
+    },
+    {
+      "name": "charts-example-private",
+      "label": "Charts Example with private app",
+      "path": "charts-example/private",
+      "insertPath": null
+    },
+    {
+      "name": "charts-example-public",
+      "label": "Charts Example with public app",
+      "path": "charts-example/public",
+      "insertPath": null
+    },
+    {
+      "name": "design-patterns",
+      "label": "Design Patterns",
+      "path": "design-patterns",
+      "insertPath": null
+    }
+  ]
+}
